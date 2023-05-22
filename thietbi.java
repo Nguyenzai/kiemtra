@@ -1,4 +1,4 @@
-package QuanLi;
+package thuchanh;
 
 class ThietBi {
     protected String ten;

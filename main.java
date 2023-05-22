@@ -1,4 +1,4 @@
-package QuanLi;
+package thuchanh;
 
 
     public class Main {
